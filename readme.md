@@ -1,4 +1,4 @@
-# Aryabhata Solutions Git repo
+# C.V Raman Solutions Git repo
 You can find the code/project files for Assignments in their respective weekXX/dayXX folder.
 
 ## Links for Assignments discussion videos :
